@@ -8,7 +8,7 @@
         "trumpet": "~1.6.1",
         "ent": "~0.0.5",
         "concat-stream": "~1.0.0",
-        "domify": "~0.2.0"
+        "domify": "~1.4.1"
     },
     "devDependencies": {
         "tape": "~0.3.3",
